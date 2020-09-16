@@ -1,0 +1,2 @@
+# README
+Repo to work with the babynames data sets published by the Social Security Administration annually. It contains the number of babies born each year with a given first name for each gender. For privacy purposes, it does not include baby names that had fewer than 5 babies with that given name.
